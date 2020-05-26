@@ -1,3 +1,7 @@
+#INCOMPLETE
+
+This is a chrome extension designed to help manage all the recipes you find online in one location.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
