@@ -9,8 +9,7 @@
     "default_popup": "index.html",
     "default_title": "Open the popup"
   },
-  "content_security_policy": "script-src 'self' 
-  sha256-BWVp7hfHt68R/yoqsSkX9kPQz7pEWCGJSBZQkb6FtG4='"
+  "content_security_policy": "script-src 'self' 'sha256-BWVp7hfHt68R/yoqsSkX9kPQz7pEWCGJSBZQkb6FtG4='; object-src 'self'",
   "icons": {
     "16": "logo-small.png",
     "48": "logo-small.png",
